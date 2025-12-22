@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Mauz Ahmad<br>🚀 Flutter Developer | Frontend Engineer | Automation Specialist<br><br>I am a professional Flutter Developer and Frontend Engineer with hands-on industrial experience across multiple IT companies, delivering real-world applications and automation solutions. I have worked in service-based companies, product development teams, and client-driven environments, contributing to scalable mobile apps and business automation systems.<br><br>🏢 Industrial Experience<br>🔹 Flutter Developer — Echo Glitch<br><br>Worked on Flutter-based mobile applications following industry-standard development practices<br><br>Converted UI/UX designs into pixel-perfect Flutter interfaces<br><br>Implemented custom widgets and reusable components<br><br>Assisted in API integration and state management<br><br>Collaborated with senior developers to debug and optimize app performance<br><br>Gained experience working in a professional team environment<br><br>🔹 Flutter Developer / Frontend Engineer — A&M Technologies<br><br>Actively contributed to multiple client and internal Flutter projects<br><br>Designed and implemented scalable Flutter architecture for reuse across projects<br><br>Developed apps for e-commerce, utilities, hospitality, and digital products<br><br>Integrated REST APIs and handled backend responses<br><br>Ensured responsive UI across multiple screen sizes<br><br>Participated in requirement analysis, development, testing, and deployment phases<br><br>🔹 Flutter Developer — Hifah Technologies<br><br>Built feature-rich Flutter applications for business clients<br><br>Focused on clean code, modular architecture, and maintainability<br><br>Implemented UI enhancements and performance optimizations<br><br>Worked closely with designers and backend teams<br><br>Delivered updates and fixes based on client feedback and testing<br><br>🔹 Automation & Integration Specialist — ProspectROI<br><br>Tools: n8n, Zapier, Make (Integromat)<br><br>Designed and deployed end-to-end automation workflows for business operations<br><br>Automated lead handling, CRM updates, and reporting pipelines<br><br>Integrated third-party platforms using APIs and webhooks<br><br>Built scalable automations with error handling and monitoring<br><br>Reduced manual workload and improved operational efficiency for teams<br><br>🧠 Tech Stack & Skills<br>📱 Mobile & Frontend<br><br>Flutter (Advanced)<br><br>Dart<br><br>Cross-platform Mobile App Development<br><br>State Management (Provider, Bloc)<br><br>Custom Widgets & UI Components<br><br>REST API Integration<br><br>Performance Optimization<br><br>Debugging & Refactoring<br><br>Git & Version Control<br><br>🌐 Web & UI<br><br>HTML5<br><br>CSS3<br><br>Responsive Web Design<br><br>UI/UX Prototyping<br><br>Canva<br><br>☁ Backend & Cloud<br><br>Firebase Integration<br><br>API Debugging<br><br>SQL / DBMS<br><br>Basic Cloud Integrations<br><br>🤖 Automation & No-Code<br><br>n8n<br><br>Zapier<br><br>Make (Integromat)<br><br>Webhooks & API Automation<br><br>SaaS Integrations<br><br>📂 Personal Projects<br><br>Digital Library / Book Store App<br><br>Food Ordering App<br><br>Guest House Management App<br><br>Image to PDF Converter<br><br>BMI Calculator App<br><br>To-Do Application<br><br>Reusable Flutter Architecture Framework<br><br>Business Automation Workflows (n8n / Zapier / Make)
 
-<!--
-**mauz21/mauz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mauz21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mauz21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauz21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mauz21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mauz21&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mauz21&icon=10&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
